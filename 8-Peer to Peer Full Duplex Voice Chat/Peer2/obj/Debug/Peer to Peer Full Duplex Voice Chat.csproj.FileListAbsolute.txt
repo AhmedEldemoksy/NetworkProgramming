@@ -1,0 +1,52 @@
+D:\Chapter11 VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\Chapter11 VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+D:\Chapter11 VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\Chapter11 VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+D:\Chapter11 VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Voice.pdb
+D:\Chapter11 VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csprojResolveAssemblyReference.cache
+D:\Chapter11 VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\VOIP.Form1.resources
+D:\Chapter11 VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csproj.GenerateResource.Cache
+D:\VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\VOIP Programming\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+C:\Users\EngAhmed Eldemoksy\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.exe
+C:\Users\EngAhmed Eldemoksy\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+C:\Users\EngAhmed Eldemoksy\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.exe
+C:\Users\EngAhmed Eldemoksy\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+C:\Users\EngAhmed Eldemoksy\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Voice.pdb
+C:\Users\EngAhmed Eldemoksy\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csprojResolveAssemblyReference.cache
+C:\Users\EngAhmed Eldemoksy\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\VOIP.Form1.resources
+C:\Users\EngAhmed Eldemoksy\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csproj.GenerateResource.Cache
+C:\Users\FAHMY\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.exe
+C:\Users\FAHMY\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+C:\Users\FAHMY\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.exe
+C:\Users\FAHMY\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+C:\Users\FAHMY\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Voice.pdb
+C:\Users\FAHMY\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csprojResolveAssemblyReference.cache
+C:\Users\FAHMY\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\VOIP.Form1.resources
+C:\Users\FAHMY\Desktop\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csproj.GenerateResource.Cache
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Voice.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csprojResolveAssemblyReference.cache
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\VOIP.Form1.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\MET\2022\CS4\Network\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+D:\MET\2022\CS4\Network\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\MET\2022\CS4\Network\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+D:\MET\2022\CS4\Network\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Voice.pdb
+D:\MET\2022\CS4\Network\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\VOIP.Form1.resources
+D:\MET\2022\CS4\Network\Lab\Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Lab\8-Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\MET\2022\CS4\Network\Lab\8-Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\8-Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\8-Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\8-Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\8-Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Peer to Peer Full Duplex Voice Chat.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\8-Peer to Peer Full Duplex Voice Chat\Peer2\Debug\Voice.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\8-Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csprojResolveAssemblyReference.cache
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\8-Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\VOIP.Form1.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\8-Peer to Peer Full Duplex Voice Chat\Peer2\obj\Debug\Peer to Peer Full Duplex Voice Chat.csproj.GenerateResource.Cache

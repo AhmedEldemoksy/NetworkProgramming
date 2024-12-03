@@ -1,0 +1,51 @@
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ServerControl\ServerControl\bin\Debug\ServerControl.exe.config
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ServerControl\ServerControl\bin\Debug\ServerControl.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ServerControl\ServerControl\bin\Debug\ServerControl.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.csprojResolveAssemblyReference.cache
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.Form1.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.Properties.Resources.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.csproj.GenerateResource.Cache
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.pdb
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\ServerControl\ServerControl\bin\Debug\ServerControl.exe.config
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.exe
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.pdb
+D:\MET\2022\CS4\Network\Lab\ServerControl\ServerControl\bin\Debug\ServerControl.exe.config
+D:\MET\2022\CS4\Network\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.exe
+D:\MET\2022\CS4\Network\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.pdb
+D:\MET\2022\CS4\Network\Lab\ServerControl\ServerControl\bin\Debug\ServerControl.exe
+D:\MET\2022\CS4\Network\Lab\ServerControl\ServerControl\bin\Debug\ServerControl.pdb
+D:\MET\2022\CS4\Network\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.Form1.resources
+D:\MET\2022\CS4\Network\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\ServerControl\ServerControl\obj\Debug\ServerControl.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.exe.config
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.exe
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.pdb
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.exe
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.pdb
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.Form1.resources
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.csproj.GenerateResource.Cache
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.exe.config
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.csprojResolveAssemblyReference.cache
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.Form1.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.Properties.Resources.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.csproj.GenerateResource.Cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.exe.config
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.csprojResolveAssemblyReference.cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.Form1.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.Properties.Resources.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.csproj.GenerateResource.Cache
+D:\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\bin\Debug\ServerControl.exe.config
+D:\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.exe
+D:\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ServerControl\ServerControl\obj\Debug\ServerControl.pdb

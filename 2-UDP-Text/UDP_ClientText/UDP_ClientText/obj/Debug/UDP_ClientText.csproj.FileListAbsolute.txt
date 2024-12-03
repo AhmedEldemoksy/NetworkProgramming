@@ -1,0 +1,51 @@
+c:\users\fahmy\documents\visual studio 2013\Projects\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe.config
+c:\users\fahmy\documents\visual studio 2013\Projects\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe
+c:\users\fahmy\documents\visual studio 2013\Projects\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.pdb
+c:\users\fahmy\documents\visual studio 2013\Projects\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csprojResolveAssemblyReference.cache
+c:\users\fahmy\documents\visual studio 2013\Projects\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.Client.resources
+c:\users\fahmy\documents\visual studio 2013\Projects\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.Properties.Resources.resources
+c:\users\fahmy\documents\visual studio 2013\Projects\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csproj.GenerateResource.Cache
+c:\users\fahmy\documents\visual studio 2013\Projects\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.exe
+c:\users\fahmy\documents\visual studio 2013\Projects\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.pdb
+D:\MET-NewWork\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe.config
+D:\MET-NewWork\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.exe
+D:\MET-NewWork\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.pdb
+D:\MET-NewWork\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe
+D:\MET-NewWork\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.pdb
+D:\MET-NewWork\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csprojResolveAssemblyReference.cache
+D:\MET-NewWork\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.client.resources
+D:\MET-NewWork\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.Properties.Resources.resources
+D:\MET-NewWork\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csproj.GenerateResource.Cache
+D:\MET-NewWork\2021\CS4-Networking\Sec\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe.config
+D:\MET-NewWork\2021\CS4-Networking\Sec\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.exe
+D:\MET-NewWork\2021\CS4-Networking\Sec\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.pdb
+D:\MET-NewWork\2021\CS4-Networking\Sec\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe
+D:\MET-NewWork\2021\CS4-Networking\Sec\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.pdb
+D:\MET-NewWork\2021\CS4-Networking\Sec\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csprojResolveAssemblyReference.cache
+D:\MET-NewWork\2021\CS4-Networking\Sec\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.client.resources
+D:\MET-NewWork\2021\CS4-Networking\Sec\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.Properties.Resources.resources
+D:\MET-NewWork\2021\CS4-Networking\Sec\UDP_Client & Server Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Lab\2-UDP-Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe.config
+D:\MET\2022\CS4\Network\Lab\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.exe
+D:\MET\2022\CS4\Network\Lab\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.pdb
+D:\MET\2022\CS4\Network\Lab\2-UDP-Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe
+D:\MET\2022\CS4\Network\Lab\2-UDP-Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.pdb
+D:\MET\2022\CS4\Network\Lab\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.client.resources
+D:\MET\2022\CS4\Network\Lab\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe.config
+D:\MET\2022\CS4\Network\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.exe
+D:\MET\2022\CS4\Network\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe.config
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csprojResolveAssemblyReference.cache
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.client.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.Properties.Resources.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.csproj.GenerateResource.Cache
+D:\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\bin\Debug\UDP_ClientText.exe.config
+D:\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.exe
+D:\Network-Programming-Implementation-Code\2-UDP-Text\UDP_ClientText\UDP_ClientText\obj\Debug\UDP_ClientText.pdb

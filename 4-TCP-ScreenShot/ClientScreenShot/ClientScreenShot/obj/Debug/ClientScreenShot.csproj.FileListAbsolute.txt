@@ -1,0 +1,47 @@
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe.config
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Form1.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Properties.Resources.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.csproj.GenerateResource.Cache
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.pdb
+D:\MET\2022\CS4\Network\Lab\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe.config
+D:\MET\2022\CS4\Network\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.exe
+D:\MET\2022\CS4\Network\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.pdb
+D:\MET\2022\CS4\Network\Lab\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe
+D:\MET\2022\CS4\Network\Lab\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.pdb
+D:\MET\2022\CS4\Network\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Form1.resources
+D:\MET\2022\CS4\Network\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Lab\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe.config
+D:\MET\2022\CS4\Network\Lab\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.exe
+D:\MET\2022\CS4\Network\Lab\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.pdb
+D:\MET\2022\CS4\Network\Lab\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe
+D:\MET\2022\CS4\Network\Lab\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.pdb
+D:\MET\2022\CS4\Network\Lab\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Form1.resources
+D:\MET\2022\CS4\Network\Lab\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.csproj.GenerateResource.Cache
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe.config
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Form1.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Properties.Resources.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.csproj.GenerateResource.Cache
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.csprojResolveAssemblyReference.cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe.config
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.csprojResolveAssemblyReference.cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Form1.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.Properties.Resources.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.csproj.GenerateResource.Cache
+D:\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\bin\Debug\ClientScreenShot.exe.config
+D:\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.exe
+D:\Network-Programming-Implementation-Code\4-TCP-ScreenShot\ClientScreenShot\ClientScreenShot\obj\Debug\ClientScreenShot.pdb

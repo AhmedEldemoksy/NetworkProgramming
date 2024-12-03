@@ -1,0 +1,63 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe.config
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe.config
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Form1.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Properties.Resources.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.csproj.GenerateResource.Cache
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\mscorlib.dll
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\System.Net.Http.dll
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\System.Net.Http.xml
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\normidna.nlp
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\normnfc.nlp
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\normnfd.nlp
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\normnfkc.nlp
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\normnfkd.nlp
+D:\MET\2022\CS4\Network\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe.config
+D:\MET\2022\CS4\Network\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.exe
+D:\MET\2022\CS4\Network\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.pdb
+D:\MET\2022\CS4\Network\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe
+D:\MET\2022\CS4\Network\Lab\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.pdb
+D:\MET\2022\CS4\Network\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Form1.resources
+D:\MET\2022\CS4\Network\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Lab\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe.config
+D:\MET\2022\CS4\Network\Lab\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.exe
+D:\MET\2022\CS4\Network\Lab\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.pdb
+D:\MET\2022\CS4\Network\Lab\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe
+D:\MET\2022\CS4\Network\Lab\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.pdb
+D:\MET\2022\CS4\Network\Lab\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Form1.resources
+D:\MET\2022\CS4\Network\Lab\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe.config
+D:\MET\2022\CS4\Network\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.exe
+D:\MET\2022\CS4\Network\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe.config
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.csprojResolveAssemblyReference.cache
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Form1.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Properties.Resources.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.csproj.GenerateResource.Cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe.config
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.csprojResolveAssemblyReference.cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Form1.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Properties.Resources.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.csproj.GenerateResource.Cache
+D:\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe.config
+D:\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.exe
+D:\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.pdb
+D:\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.exe
+D:\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\bin\Debug\TCPClient-Picture.pdb
+D:\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.csprojResolveAssemblyReference.cache
+D:\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Form1.resources
+D:\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient_Picture.Properties.Resources.resources
+D:\Network-Programming-Implementation-Code\3-TCP-Picture\TCPClient-Picture\TCPClient-Picture\obj\Debug\TCPClient-Picture.csproj.GenerateResource.Cache

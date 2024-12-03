@@ -1,0 +1,47 @@
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientControl\ClientControl\bin\Debug\ClientControl.exe.config
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientControl\ClientControl\bin\Debug\ClientControl.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientControl\ClientControl\bin\Debug\ClientControl.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.Form1.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.Properties.Resources.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.csproj.GenerateResource.Cache
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.pdb
+D:\MET\2022\CS4\Network\Lab\ClientControl\ClientControl\bin\Debug\ClientControl.exe.config
+D:\MET\2022\CS4\Network\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.exe
+D:\MET\2022\CS4\Network\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.pdb
+D:\MET\2022\CS4\Network\Lab\ClientControl\ClientControl\bin\Debug\ClientControl.exe
+D:\MET\2022\CS4\Network\Lab\ClientControl\ClientControl\bin\Debug\ClientControl.pdb
+D:\MET\2022\CS4\Network\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.Form1.resources
+D:\MET\2022\CS4\Network\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\ClientControl\ClientControl\obj\Debug\ClientControl.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.exe.config
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.exe
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.pdb
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.exe
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.pdb
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.Form1.resources
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.csproj.GenerateResource.Cache
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.exe.config
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.csprojResolveAssemblyReference.cache
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.Form1.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.Properties.Resources.resources
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.csproj.GenerateResource.Cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.exe.config
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.csprojResolveAssemblyReference.cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.Form1.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.Properties.Resources.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.csproj.GenerateResource.Cache
+D:\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\bin\Debug\ClientControl.exe.config
+D:\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.exe
+D:\Network-Programming-Implementation-Code\5-TCP-RemoteControl\ClientControl\ClientControl\obj\Debug\ClientControl.pdb

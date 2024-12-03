@@ -1,0 +1,38 @@
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\chat-client\chat-client\bin\Debug\chat-client.exe.config
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\chat-client\chat-client\bin\Debug\chat-client.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\chat-client\chat-client\bin\Debug\chat-client.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\chat-client\chat-client\obj\Debug\chat-client.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\chat-client\chat-client\obj\Debug\chat-client.pdb
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\Chat-client\chat-client\bin\Debug\chat-client.exe.config
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\Chat-client\chat-client\obj\Debug\chat-client.exe
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\Chat-client\chat-client\obj\Debug\chat-client.pdb
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\Chat-client\chat-client\bin\Debug\chat-client.exe
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\Chat-client\chat-client\bin\Debug\chat-client.pdb
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\Chat-client\chat-client\obj\Debug\chat-client.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\Chat-client\chat-client\bin\Debug\chat-client.exe.config
+D:\MET\2022\CS4\Network\Lab\Chat-client\chat-client\obj\Debug\chat-client.exe
+D:\MET\2022\CS4\Network\Lab\Chat-client\chat-client\obj\Debug\chat-client.pdb
+D:\MET\2022\CS4\Network\Lab\Chat-client\chat-client\bin\Debug\chat-client.exe
+D:\MET\2022\CS4\Network\Lab\Chat-client\chat-client\bin\Debug\chat-client.pdb
+D:\MET\2022\CS4\Network\Lab\Chat-client\chat-client\obj\Debug\chat-client.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\6-SynchronousChatting\Chat-client\chat-client\bin\Debug\chat-client.exe.config
+D:\MET\2022\CS4\Network\Lab\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.exe
+D:\MET\2022\CS4\Network\Lab\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\bin\Debug\chat-client.exe.config
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\bin\Debug\chat-client.exe
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\bin\Debug\chat-client.pdb
+D:\MET\2023\CS4\Network Programming\Sec\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.csprojResolveAssemblyReference.cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\bin\Debug\chat-client.exe.config
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\bin\Debug\chat-client.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\bin\Debug\chat-client.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.csprojResolveAssemblyReference.cache
+F:\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\bin\Debug\chat-client.exe.config
+F:\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.exe
+F:\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.pdb
+D:\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\bin\Debug\chat-client.exe.config
+D:\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.exe
+D:\Network-Programming-Implementation-Code\6-SynchronousChatting\Chat-client\chat-client\obj\Debug\chat-client.pdb

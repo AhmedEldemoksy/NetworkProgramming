@@ -1,0 +1,74 @@
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\TCPServer 2020.exe.config
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\TCPServer 2020.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\TCPServer 2020.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer_2020.Form1.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer_2020.Properties.Resources.resources
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.csproj.GenerateResource.Cache
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.exe
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.pdb
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\mscorlib.dll
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\System.Net.Http.dll
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\System.Net.Http.xml
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normidna.nlp
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normnfc.nlp
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normnfd.nlp
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normnfkc.nlp
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normnfkd.nlp
+D:\MET-NewWork\2020\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.csprojResolveAssemblyReference.cache
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\TCPServer 2020.exe.config
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.exe
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.pdb
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\TCPServer 2020.exe
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\TCPServer 2020.pdb
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\mscorlib.dll
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normidna.nlp
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normnfc.nlp
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normnfd.nlp
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normnfkc.nlp
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\bin\Debug\normnfkd.nlp
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.csprojResolveAssemblyReference.cache
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer_2020.Form1.resources
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer_2020.Properties.Resources.resources
+D:\MET-NewWork\2020\1-Term\CS-4\Network Programming\Lab\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.csproj.GenerateResource.Cache
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\bin\Debug\TCPServer 2020.exe.config
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.exe
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.pdb
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\bin\Debug\TCPServer 2020.exe
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\bin\Debug\TCPServer 2020.pdb
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\bin\Debug\mscorlib.dll
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\bin\Debug\normidna.nlp
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\bin\Debug\normnfc.nlp
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\bin\Debug\normnfd.nlp
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\bin\Debug\normnfkc.nlp
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\bin\Debug\normnfkd.nlp
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.csprojResolveAssemblyReference.cache
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer_2020.Form1.resources
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer_2020.Properties.Resources.resources
+D:\MET-NewWork\2021\CS4-Networking\Sec\TCP-Text\TCPServer 2020\TCPServer 2020\obj\Debug\TCPServer 2020.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Lab\1-TCP-Text\TCPServer\TCPServer 2020\bin\Debug\TCPServer 2020.exe.config
+D:\MET\2022\CS4\Network\Lab\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.exe
+D:\MET\2022\CS4\Network\Lab\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.pdb
+D:\MET\2022\CS4\Network\Lab\1-TCP-Text\TCPServer\TCPServer 2020\bin\Debug\TCPServer 2020.exe
+D:\MET\2022\CS4\Network\Lab\1-TCP-Text\TCPServer\TCPServer 2020\bin\Debug\TCPServer 2020.pdb
+D:\MET\2022\CS4\Network\Lab\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.csprojResolveAssemblyReference.cache
+D:\MET\2022\CS4\Network\Lab\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer_2020.Form1.resources
+D:\MET\2022\CS4\Network\Lab\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer_2020.Properties.Resources.resources
+D:\MET\2022\CS4\Network\Lab\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.csproj.GenerateResource.Cache
+D:\MET\2022\CS4\Network\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\bin\Debug\TCPServer 2020.exe.config
+D:\MET\2022\CS4\Network\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.exe
+D:\MET\2022\CS4\Network\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\bin\Debug\TCPServer 2020.exe.config
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\bin\Debug\TCPServer 2020.exe
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\bin\Debug\TCPServer 2020.pdb
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.csprojResolveAssemblyReference.cache
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer_2020.Form1.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer_2020.Properties.Resources.resources
+D:\MET\2024\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.csproj.GenerateResource.Cache
+H:\MET\2024\Term-1\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\bin\Debug\TCPServer 2020.exe.config
+H:\MET\2024\Term-1\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.exe
+H:\MET\2024\Term-1\CS4\NP\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.pdb
+D:\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\bin\Debug\TCPServer 2020.exe.config
+D:\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.exe
+D:\Network-Programming-Implementation-Code\1-TCP-Text\TCPServer\TCPServer 2020\obj\Debug\TCPServer 2020.pdb
